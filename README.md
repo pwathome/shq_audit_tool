@@ -1,5 +1,4 @@
-![](/assets/icons/android-chrome-192x192.png)
-# SHQ Debugging Tool :sm
+# SHQ Debugging Tool ![](/assets/icons/favicon-32x32.png)
  ### Installation
  - Download the file
  - Manually install via chrome extensions page
