@@ -1,9 +1,11 @@
 # SHQ Debugging Tool ![](/assets/icons/favicon-32x32.png)
 ### Installation
 - Download ZIP file to your computer ![](/assets/images/download.png)
+
 - Navigate to the file and unzip it (right click and select unzip)
 - Type the following in your address bar in Chrome `chrome://extensions`
 - Turn on developer mode by clicking in the upper right of the screen ![](/assets/images/devmode.png)
+
 - Click the "Load Unpacked" button on the left and select the file you just unzipped (not the one with the zipper on it) ![](/assets/images/load.png)
 
 
