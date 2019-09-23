@@ -8,6 +8,7 @@
 - When you click load, pick the folder you unziped
 
 ![](/assets/icons/instructions2.png)
+|
 ![](/assets/icons/instructions1.png)
 
 ### Usage
