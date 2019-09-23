@@ -13,8 +13,8 @@
 - In your browser, you will see the extension in the toolbar (It looks like the coping squirrel for Tech Services) ![](/assets/images/toolbar.png)
 - When you click the extension it will append the debugging parameter and refresh the page
 - Now, when you open the developer tools (right click inspect) and open console, you will get to see all the wonderful information.
-- To only see SHQ information, type SHQ in the filter box IMAGE
-![](/assets/images/instructions3.png)
+- To only see SHQ information, type SHQ in the filter box
+![](/assets/images/filter.png)
 
 ### Troubleshooting
 - Try clearing your cache and cookies and repeating the process
