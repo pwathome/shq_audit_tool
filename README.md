@@ -1,21 +1,19 @@
 # SHQ Debugging Tool ![](/assets/icons/favicon-32x32.png)
-### Installation (See screenshots)
-- Download ZIP file
-- Unzip it
-- Go to chrome extensions page by typing the following in the address bar.
-`chrome://extensions`
-- Enable developer mode
-- When you click load, pick the folder you unziped
+### Installation
+- Download ZIP file to your computer ![](/assets/images/download.png)
+- Navigate to the file and unzip it (right click and select unzip)
+- Type the following in your address bar in Chrome `chrome://extensions`
+- Turn on developer mode by clicking in the upper right of the screen ![](/assets/images/devmode.png)
+- Click the "Load Unpacked" button on the left and select the file you just unzipped (not the one with the zipper on it) ![](/assets/images/load.png)
 
-![](/assets/images/instructions2.png)
-|
-![](/assets/images/instructions1.png)
 
 ### Usage
-- When you click the extension it will append the debugging param and refresh the page
-- Open console to and navigate around to see outputs. Some sites have alot going on here so be sure to use the filter input.
+- In your browser, you will see the extension in the toolbar (It looks like the coping squirrel for Tech Services) ![](/assets/images/toolbar.png)
+- When you click the extension it will append the debugging parameter and refresh the page
+- Now, when you open the developer tools (right click inspect) and open console, you will get to see all the wonderful information.
+- To only see SHQ information, type SHQ in the filter box IMAGE
 ![](/assets/images/instructions3.png)
 
 ### Troubleshooting
 - Try clearing your cache and cookies and repeating the process
-- Make sure they are on the latest base script `2.7.14`
+- If it still does not work, the site may not be on the latest basescript.  Please create a support ticket to have that updated.
